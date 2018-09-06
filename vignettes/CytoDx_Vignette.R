@@ -2,7 +2,7 @@
 knitr::include_graphics("tssm_intro.jpg")
 
 ## ---- eval=FALSE---------------------------------------------------------
-#  BiocInstaller::biocLite("CytoDx")
+#  BiocManager::install("CytoDx")
 
 ## ---- eval=FALSE---------------------------------------------------------
 #  devtools::install_github("hzc363/CytoDx")

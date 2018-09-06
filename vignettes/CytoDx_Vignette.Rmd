@@ -33,7 +33,7 @@ knitr::include_graphics("tssm_intro.jpg")
 ## Installation
 You can install the stable version of CytoDx from Bioconductor:
 ```{r, eval=FALSE}
-BiocInstaller::biocLite("CytoDx")                                                                                                                                                                                                                
+BiocManager::install("CytoDx")                                                                                                                                                                                                                
 ```
 
 You can also install the latest develop version of CytoDx from github:
