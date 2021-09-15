@@ -10,7 +10,7 @@ Encoding: UTF-8
 LazyData: true
 Imports: doParallel, dplyr, glmnet, rpart, rpart.plot, stats, flowCore,grDevices, graphics, utils
 Depends: R (>= 3.5)
-Suggests: knitr
+Suggests: knitr, rmarkdown
 VignetteBuilder: knitr, rmarkdown
 RoxygenNote: 6.1.0
 biocViews: ImmunoOncology, CellBiology, FlowCytometry, StatisticalMethod, Software, CellBasedAssays, Regression, Classification, Survival
